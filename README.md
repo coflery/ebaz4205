@@ -11,6 +11,7 @@
 * [AD-PCB](./hw/EBAZ4205.PcbDoc) [KICAD-PCB](./hw/EBAZ4205.kicad_pcb)
 * [贴片图-顶层](./hw/EBAZ4205-top.pdf) [贴片图-底层](./hw/EBAZ4205-button.pdf)
 * [EBAZ4205介绍](./doc/ebaz4205_introduce.md)
+* [ZYNQ7000 MIO映射](./datasheet/zynq7000-MIO.png) [ZYNQ7010引脚定义](./datasheet/xc7z010clg400pkg.txt)
 * [XILINX 设计工具](https://www.xilinx.com/support/download.html)
 * [Zynq-7000 SoC 资料](https://china.xilinx.com/products/silicon-devices/soc/zynq-7000.html#documentation)
 * [XC7Z010clg400pkg](https://www.xilinx.com/support/packagefiles/z7packages/xc7z010clg400pkg.txt)
